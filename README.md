@@ -5,6 +5,13 @@
 </p>
 
 <hr>
+<h3>🚀 About Me</h3>
+<p>
+I am passionate about creating innovative solutions through technology.    
+I love learning by experimenting and turning ideas into reality.
+</p>
+
+<hr>
 
 <h3>🌱 Learning & Interests</h3>
 <ul>
@@ -13,13 +20,6 @@
   <li><strong>Goal:</strong> Build impactful projects and grow as a developer</li>
 </ul>
 
-<hr>
-
-<h3>🚀 About Me</h3>
-<p>
-I am passionate about creating innovative solutions through technology.    
-I love learning by experimenting and turning ideas into reality.
-</p>
 
 <hr>
 
