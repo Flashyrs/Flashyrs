@@ -1,9 +1,10 @@
-Hi there, I'm Roshan Shukla 👋 <br>
-B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer
+<h2 align = "center">Hi there, I'm Roshan Shukla 👋 </h2>
+<p><block>B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer</block>
 
 🌱 Currently Learning: MERN Stack, Blockchain Development<br>
 💡 Interests: Blockchain, IoT, Web Development, Cloud, Machine Learning, Open Source<br>
 🎯 Goal: Build impactful projects and contribute to the tech community<br>
+</p>
 <hr>
 
 🚀 About Me<br>
