@@ -1,16 +1,31 @@
-## Hi there 👋
+Hi there, I'm Roshan Shukla 👋
+B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer
 
-<!--
-**Flashyrs/Flashyrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently Learning: MERN Stack, Blockchain Development
+💡 Interests: Blockchain, IoT, Web Development, Open Source
+🎯 Goal: Build impactful projects and contribute to the tech community
+<hr>
 
-Here are some ideas to get you started:
+🚀 About Me
+I am passionate about building innovative solutions using technology.
+My current project focuses on making cryptocurrency transactions secure with NFC and IoT devices.
+I believe in learning by doing, and I'm excited to start showcasing my work here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+🔨 My Roadmap
+🌐 Web Development Projects: Full-stack applications using the MERN stack.
+🛡️ Blockchain & IoT: Secure transaction systems and hardware-software integration.
+🤝 Open Source Contributions: Collaborating with the developer community.
+<hr>
+📈 GitHub Stats
+📊 I'll be adding projects soon, so stay tuned for updates!
+
+
+
+
+
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flashyrs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31y2lypuqiuqhvtzx6dzoih72ztu&count=2)
+
