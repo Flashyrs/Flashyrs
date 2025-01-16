@@ -1,24 +1,24 @@
 Hi there, I'm Roshan Shukla 👋 <br>
 B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer
 
-🌱 Currently Learning: MERN Stack, Blockchain Development
-💡 Interests: Blockchain, IoT, Web Development, Open Source
-🎯 Goal: Build impactful projects and contribute to the tech community
+🌱 Currently Learning: MERN Stack, Blockchain Development<br>
+💡 Interests: Blockchain, IoT, Web Development, Open Source<br>
+🎯 Goal: Build impactful projects and contribute to the tech community<br>
 <hr>
 
-🚀 About Me
-I am passionate about building innovative solutions using technology.
-My current project focuses on making cryptocurrency transactions secure with NFC and IoT devices.
-I believe in learning by doing, and I'm excited to start showcasing my work here!
+🚀 About Me<br>
+I am passionate about building innovative solutions using technology.<br>
+My current project focuses on making cryptocurrency transactions secure with NFC and IoT devices.<br>
+I believe in learning by doing, and I'm excited to start showcasing my work here!<br>
 
 <hr>
 
-🔨 My Roadmap
-🌐 Web Development Projects: Full-stack applications using the MERN stack.
-🛡️ Blockchain & IoT: Secure transaction systems and hardware-software integration.
-🤝 Open Source Contributions: Collaborating with the developer community.
+🔨 My Roadmap<br>
+🌐 Web Development Projects: Full-stack applications using the MERN stack.<br>
+🛡️ Blockchain & IoT: Secure transaction systems and hardware-software integration.<br>
+🤝 Open Source Contributions: Collaborating with the developer community.<br>
 <hr>
-📈 GitHub Stats
+📈 GitHub Stats<br>
 📊 I'll be adding projects soon, so stay tuned for updates!
 
 
