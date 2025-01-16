@@ -1,15 +1,14 @@
 <h2 align="center">Hi there, I'm Roshan Shukla 👋</h2>
 
 <p align="center">
-  <i>B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer</i><br>
-  <i>👩‍💻 I’m currently working on improving my programming skills.</i>
+  <i>B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer</i>
 </p>
 
 <hr>
 
 <h3>🌱 Learning & Interests</h3>
 <ul>
-  <li><strong>Currently Learning:</strong> MERN Stack, Blockchain Development</li>
+  <li><strong>Currently Learning:</strong> MERN Stack </li>
   <li><strong>Interests:</strong> Blockchain, IoT, Web Development, Cloud, Machine Learning, Open Source</li>
   <li><strong>Goal:</strong> Build impactful projects and grow as a developer</li>
 </ul>
@@ -18,8 +17,7 @@
 
 <h3>🚀 About Me</h3>
 <p>
-I am passionate about creating innovative solutions through technology.  
-My focus is on building secure systems that integrate blockchain and IoT.  
+I am passionate about creating innovative solutions through technology.    
 I love learning by experimenting and turning ideas into reality.
 </p>
 
