@@ -1,26 +1,43 @@
-<h2 align = "center">Hi there, I'm Roshan Shukla 👋 </h2>
-<p><block>B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer</block>
+<h2 align="center">Hi there, I'm Roshan Shukla 👋</h2>
 
-🌱 Currently Learning: MERN Stack, Blockchain Development<br>
-💡 Interests: Blockchain, IoT, Web Development, Cloud, Machine Learning, Open Source<br>
-🎯 Goal: Build impactful projects and contribute to the tech community<br>
+<p align="center">
+  <i>B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer</i>
 </p>
-<hr>
-
-🚀 About Me<br>
-I am passionate about building innovative solutions using technology.<br>
-My current project focuses on making cryptocurrency transactions secure with NFC and IoT devices.<br>
-I believe in learning by doing, and I'm excited to start showcasing my work here!<br>
 
 <hr>
 
-🔨 My Roadmap<br>
-🌐 Web Development Projects: Full-stack applications using the MERN stack.<br>
-🛡️ Blockchain & IoT: Secure transaction systems and hardware-software integration.<br>
-🤝 Open Source Contributions: Collaborating with the developer community.<br>
+<h3>🌱 Learning & Interests</h3>
+<ul>
+  <li><strong>Currently Learning:</strong> MERN Stack, Blockchain Development</li>
+  <li><strong>Interests:</strong> Blockchain, IoT, Web Development, Cloud, Machine Learning, Open Source</li>
+  <li><strong>Goal:</strong> Build impactful projects and grow as a developer</li>
+</ul>
+
 <hr>
-📈 GitHub Stats<br>
-📊 I'll be adding projects soon, so stay tuned for updates!
+
+<h3>🚀 About Me</h3>
+<p>
+I am passionate about creating innovative solutions through technology.  
+My focus is on building secure systems that integrate blockchain and IoT.  
+I love learning by experimenting and turning ideas into reality.
+</p>
+
+<hr>
+
+<h3>🔨 My Roadmap</h3>
+<ul>
+  <li>🌐 <strong>Web Development Projects:</strong> Full-stack applications using the MERN stack</li>
+  <li>🛡️ <strong>Blockchain & IoT:</strong> Secure transaction systems with NFC and hardware-software integration</li>
+  <li>🤝 <strong>Open Source:</strong> Plan to contribute to the developer community</li>
+</ul>
+
+<hr>
+
+<h3>📈 GitHub Stats</h3>
+<p align="center">
+  <i>Projects coming soon—stay tuned for updates!</i>
+</p>
+
 
 
 
