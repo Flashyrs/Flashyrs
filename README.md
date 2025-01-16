@@ -2,6 +2,7 @@
 
 <p align="center">
   <i>B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer</i>
+  <i>👩‍💻 I’m currently working on improving my programming skills.</i>
 </p>
 
 <hr>
