@@ -1,7 +1,7 @@
 <h2 align="center">Hi there, I'm Roshan Shukla 👋</h2>
 
 <p align="center">
-  <i>B.Tech 3rd-Year Student | Tech Enthusiast | Aspiring Developer</i>
+  <i>B.Tech 4th-Year Student | Tech Enthusiast | Aspiring Developer</i>
 </p>
 
 <hr>
