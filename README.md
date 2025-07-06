@@ -32,10 +32,10 @@ I love learning by experimenting and turning ideas into reality.
 
 <hr>
 
-<h3>📈 GitHub Stats</h3>
 <p align="center">
   ![Languages](https://raw.githubusercontent.com/Flashyrs/Flashyrs/main/assets/langgif.gif)
-</p>
+
+  </p>
 
 
 
