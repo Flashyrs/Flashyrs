@@ -30,7 +30,7 @@ I am passionate about creating innovative solutions through technology. I love l
 ### 📈 GitHub Stats
 
 <p align="center">
-  ![Languages](https://raw.githubusercontent.com/Flashyrs/Flashyrs/main/assets/langgif.gif)
+ ![Languages](https://raw.githubusercontent.com/Flashyrs/Flashyrs/main/assets/langgif.gif)
 
   </p>
 
