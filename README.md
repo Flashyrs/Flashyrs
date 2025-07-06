@@ -34,7 +34,7 @@ I love learning by experimenting and turning ideas into reality.
 
 <h3>📈 GitHub Stats</h3>
 <p align="center">
-  <i>Projects coming soon—stay tuned for updates!</i>
+  ![Languages](https://raw.githubusercontent.com/Flashyrs/Flashyrs/main/assets/langgif.gif)
 </p>
 
 
