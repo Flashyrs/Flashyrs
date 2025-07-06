@@ -1,48 +1,55 @@
-<h2 align="center">Hi there, I'm Roshan Shukla 👋</h2>
+<div align="center">
+  <h1>Hi there, I'm Roshan Shukla 👋</h1>
+  <p><i>B.Tech 4th-Year Student | Tech Enthusiast | Aspiring Developer</i></p>
+</div>
 
-<p align="center">
-  <i>B.Tech 4th-Year Student | Tech Enthusiast | Aspiring Developer</i>
-</p>
+---
 
-<hr>
-<h3>🚀 About Me</h3>
-<p>
-I am passionate about creating innovative solutions through technology.    
-I love learning by experimenting and turning ideas into reality.
-</p>
+### 🚀 About Me
 
-<hr>
+I am passionate about creating innovative solutions through technology. I love learning by experimenting and turning ideas into reality. My journey is driven by a curiosity to explore new horizons and build practical tools.
 
-<h3>🌱 Learning & Interests</h3>
-<ul>
-  <li><strong>Currently Learning:</strong> MERN Stack </li>
-  <li><strong>Interests:</strong> Blockchain, IoT, Web Development, Cloud, Machine Learning, Open Source</li>
-  <li><strong>Goal:</strong> Build impactful projects and grow as a developer</li>
-</ul>
+---
 
+### 🌱 Learning & Interests
 
-<hr>
+* **Currently Learning:** MERN Stack (MongoDB, Express.js, React, Node.js)
+* **Interests:** Blockchain, IoT, Web Development, Cloud Computing, Machine Learning, Open Source Contributions
+* **Goal:** Build impactful projects and continually grow as a developer
 
-<h3>🔨 My Roadmap</h3>
-<ul>
-  <li>🌐 <strong>Web Development Projects:</strong> Full-stack applications using the MERN stack</li>
-  <li>🛡️ <strong>Blockchain & IoT:</strong> Secure transaction systems with NFC and hardware-software integration</li>
-  <li>🤝 <strong>Open Source:</strong> Plan to contribute to the developer community</li>
-</ul>
+---
 
-<hr>
+### 🔨 My Roadmap
+
+* 🌐 **Web Development Projects:** Focusing on building robust full-stack applications using the MERN stack.
+* 🛡️ **Blockchain & IoT:** Exploring secure transaction systems with NFC integration and delving into hardware-software development.
+* 🤝 **Open Source:** Actively planning to contribute to the developer community and collaborate on exciting projects.
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   ![Languages](https://raw.githubusercontent.com/Flashyrs/Flashyrs/main/assets/langgif.gif)
 
   </p>
 
+---
 
+### 📫 Connect With Me
 
+<p align="center">
+  <a href="mailto:roshanshuklayt@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/flashyrs" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  </p>
 
+---
 
-
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flashyrs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31y2lypuqiuqhvtzx6dzoih72ztu&count=2)
-
+<p align="center">
+  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+</p>
