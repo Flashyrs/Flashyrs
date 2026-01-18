@@ -1,71 +1,41 @@
 # Hi there, I'm Roshan Shukla 👋 
 ### Backend Engineer | System Design Enthusiast | B.Tech CSE (AI/ML)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flashyrs&show_icons=true&theme=tokyonight&count_private=true" alt="Roshan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashyrs&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-### 🚀 Professional Summary
-[span_2](start_span)I am a **Backend-focused Software Engineer**[span_2](end_span) [span_3](start_span)with a passion for building low-latency APIs and real-time collaborative systems[span_3](end_span). [span_4](start_span)I specialize in **reliability**, **deterministic behavior**, and **failure-aware system design**[span_4](end_span). [span_5](start_span)Currently, I'm a Backend Development Intern at **GanakGyan Technologies**[span_5](end_span).
-
----
-
-### 🛠️ Tech Stack & Skills
-
-**Languages** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Backend** ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Databases & Tools** ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 🔨 Key Projects
-
-* **[span_6](start_span)Symptom Wise Multi-Tenant Hospital Assistant**[span_6](end_span)
-    * [span_7](start_span)Built a backend-heavy AI platform with **tenant-isolated data** and deterministic triage workflows[span_7](end_span).
-    * [span_8](start_span)Reduced **P99 latency to <100 ms** using semaphore-based inference throttling and hot-path caching[span_8](end_span).
-* **[span_9](start_span)IntervYou: Real-Time Collaborative System**[span_9](end_span)
-    * [span_10](start_span)Designed a low-latency interview platform using **WebRTC** and **Supabase Realtime**[span_10](end_span).
-    * [span_11](start_span)Implemented a sandboxed code execution pipeline for JavaScript, Java, and C++[span_11](end_span).
-
----
-
-### 📈 Achievements
-* **[span_12](start_span)Runner-up**, Tech Yuva 8.0 National-level coding competition[span_12](end_span).
-* **[span_13](start_span)2nd Runner-up**, Tech Yuva 10.0 National-level coding competition[span_13](end_span).
-* **[span_14](start_span)IBM Certified**: Cloud Fundamentals (IaaS, PaaS, Microservices)[span_14](end_span).
-* **[span_15](start_span)Solved 250+** LeetCode & GFG problems focusing on complexity[span_15](end_span).
-
----
-
-### 📫 Connect With Me
-
 <p align="center">
-  <a href="mailto:roshanshuklayt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/flashyrs" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Flashyrs&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flashyrs&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-<p align="center">
-  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+### 🚀 Impact & Experience
+* **[span_1](start_span)Backend Intern @ GanakGyan Technologies:** Reduced p50 API latency by **35%** through MongoDB index optimization and connection pooling[span_1](end_span).
+* **[span_2](start_span)System Design:** Built a multi-tenant AI healthcare platform with **P99 latency <100ms** using semaphore-based throttling[span_2](end_span).
+* **[span_3](start_span)Real-time Systems:** Developed a collaborative coding platform featuring **WebRTC** and sub-100ms perceived update latency[span_3](end_span).
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![CI/CD](https://img.shields.io/badge/-CI/CD-FF6600?style=flat-square&logo=github-actions&logoColor=white) |
+
+---
+
+### 🏆 Achievements
+* **[span_4](start_span)Runner-up & 2nd Runner-up:** Tech Yuva National-level coding competitions[span_4](end_span).
+* **[span_5](start_span)Open Source & Leadership:** IEEE Student Branch Secretary; increased workshop participation by **40%**[span_5](end_span).
+* **[span_6](start_span)Problem Solving:** 250+ LeetCode & GFG problems solved with a focus on complexity[span_6](end_span).
+
+---
+
+### 📫 Connect With Me
+<p align="left">
+  <a href="mailto:roshanshuklayt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/flashyrs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
