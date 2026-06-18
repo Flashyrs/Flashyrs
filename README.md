@@ -172,7 +172,7 @@ Real-time interview platform featuring:
 ## 🏆 Achievements
 
 - 🥇 500+ LeetCode Problems Solved
-- 🚀 Innovation Hub Selection at IITF 2025
+- 🚀 Innovation Hub Selection at UPITS 2025
 - 🏅 Runner-Up, TechYuva Coding Competition
 - ☁️ AWS Educate Machine Learning Foundations
 - 🎓 IIT BHU Machine Learning Certification
