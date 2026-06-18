@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <h1>Hi there, I'm Roshan Shukla 👋</h1>
@@ -196,4 +196,4 @@ Real-time interview platform featuring:
 ### ⚡ Building scalable systems, solving hard problems, and continuously improving.
 
 </div>
-```
+
