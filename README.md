@@ -2,7 +2,7 @@
 
 <h1>Hi there, I'm Roshan Shukla 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems+Enthusiast;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Redis;Building+Low-Latency+Systems;500%2B+LeetCode+Problems+Solved" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;Distributed+Systems+Enthusiast;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Redis;Building+Low-Latency+Systems;500%2B+LeetCode+Problems+Solved" />
 
 <br><br>
 
