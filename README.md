@@ -80,21 +80,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Flashyrs&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 ## 🧠 LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/flashy_rs?theme=dark&font=baloo&ext=contest"/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/flashy_rs?theme=dark&font=baloo&ext=contest)
 
 </div>
 
