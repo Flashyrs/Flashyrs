@@ -1,9 +1,8 @@
-
 <div align="center">
 
 <h1>Hi there, I'm Roshan Shukla 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems+Developer;Java+%7C+Spring+Boot+%7C+Redis;Building+Scalable+Systems;450%2B+LeetCode+Problems+Solved" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Backend+Engineer;Distributed+Systems+Enthusiast;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Redis;Building+Low-Latency+Systems;500%2B+LeetCode+Problems+Solved" />
 
 <br><br>
 
@@ -19,10 +18,6 @@
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Flashyrs&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
 </div>
 
 ---
@@ -32,9 +27,9 @@
 - 🎓 B.Tech CSE (AI & ML)
 - 💻 500+ LeetCode Problems Solved
 - ⚡ Backend Engineer focused on Java, Spring Boot, PostgreSQL & Redis
-- 🏗️ Interested in Distributed Systems, System Design & Scalability
-- 🚀 Building SymptomWise, an AI-powered healthcare platform
-- 🌱 Always learning and shipping projects
+- 🏗️ Interested in Distributed Systems, Scalability & System Design
+- 🚀 Built SymptomWise, an AI-powered healthcare platform
+- 📈 Achieved 20ms cached latency and 0% failures across 5,800+ requests during load testing
 
 ---
 
@@ -84,7 +79,15 @@
 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/flashy_rs?theme=dark&font=baloo&ext=contest)
+<a href="https://leetcode.com/u/flashy_rs/">
+<img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/flashy_rs/">
+<img src="https://img.shields.io/badge/View%20LeetCode%20Profile-000000?style=for-the-badge&logo=leetcode&logoColor=orange"/>
+</a>
 
 </div>
 
@@ -97,30 +100,35 @@
 
 <td width="50%">
 
-### 🏥 SymptomWise
+<h3>🏥 SymptomWise</h3>
 
 AI-powered healthcare triage platform featuring:
 
-- Multi-tenant architecture
-- Redis semantic cache
-- Priority-based LLM orchestration
-- WhatsApp integration
-- 61% cache hit rate
-- 20ms cached query latency
+<ul>
+<li>Multi-tenant architecture</li>
+<li>Redis semantic cache</li>
+<li>Priority-based LLM orchestration</li>
+<li>WhatsApp integration</li>
+<li>61% cache hit rate</li>
+<li>20ms p50 cached latency</li>
+<li>0% failures across 5,800+ requests</li>
+</ul>
 
 </td>
 
 <td width="50%">
 
-### 🎤 IntervYou
+<h3>🎤 IntervYou</h3>
 
 Real-time interview platform featuring:
 
-- Judge0 code execution
-- WebRTC interviews
-- AI-generated assessments
-- PostgreSQL backend
-- Next.js frontend
+<ul>
+<li>Judge0 code execution</li>
+<li>WebRTC interviews</li>
+<li>AI-generated assessments</li>
+<li>PostgreSQL backend</li>
+<li>Next.js frontend</li>
+</ul>
 
 </td>
 
@@ -130,30 +138,44 @@ Real-time interview platform featuring:
 
 <td width="50%">
 
-### 🤖 YouTube Shorts Automation
+<h3>🤖 YouTube Shorts Automation</h3>
 
-- n8n workflows
-- Bark TTS
-- Whisper
-- Gemini API
-- FFmpeg automation
+<ul>
+<li>n8n workflow automation</li>
+<li>Bark TTS</li>
+<li>Whisper transcription</li>
+<li>Gemini API integration</li>
+<li>FFmpeg video generation</li>
+</ul>
 
 </td>
 
 <td width="50%">
 
-### 💳 NFC Blockchain Payments
+<h3>💳 NFC Blockchain Payments</h3>
 
-- Solidity Smart Contracts
-- NFC Integration
-- MERN Stack
-- Secure Transactions
+<ul>
+<li>Solidity smart contracts</li>
+<li>NFC integration</li>
+<li>MERN stack application</li>
+<li>Secure payment processing</li>
+</ul>
 
 </td>
 
 </tr>
 
 </table>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 500+ LeetCode Problems Solved
+- 🚀 Innovation Hub Selection at IITF 2025
+- 🏅 Runner-Up, TechYuva Coding Competition
+- ☁️ AWS Educate Machine Learning Foundations
+- 🎓 IIT BHU Machine Learning Certification
 
 ---
 
@@ -183,7 +205,7 @@ Real-time interview platform featuring:
 
 <div align="center">
 
-### ⚡ Building scalable systems, solving hard problems, and continuously improving.
+<h3>⚡ Building scalable systems, solving hard problems, and shipping impactful software.</h3>
 
 </div>
 
