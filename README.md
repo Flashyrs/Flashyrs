@@ -3,7 +3,7 @@
 # Hi there, I'm Roshan Shukla 👋
 
 <a href="https://flashyrs-portfolio.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&lines=Backend-Focused+Software+Engineer;Distributed+Systems+%26+Cloud+Architecture;Java+%7C+Spring+Boot+%7C+Python+%7C+PostgreSQL+%7C+Redis;LeetCode+Knight+(1890+Rating+%7C+Top+4.8%25)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=61AFEF&center=true&vCenter=true&width=800&lines=Software+Development+Engineer+(SDE);Full-Stack+%26+Distributed+Systems;Java+%7C+Python+%7C+TypeScript+%7C+Next.js+%7C+Spring;LeetCode+Knight+(1890+Rating+%7C+Top+4.8%25)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,9 +30,9 @@
 
 <br/><br/>
 
-| 🚀 **7 Live Systems** | ⚡ **1.2s → 213ms (82%)** | 🧠 **750+ DSA Solved** | 🏆 **1890 Peak Rating** |
+| 🚀 **7 Live Deployments** | ⚡ **1.2s → 213ms (82%)** | 🧠 **750+ DSA Solved** | 🏆 **1890 Peak Rating** |
 | :---: | :---: | :---: | :---: |
-| 24/7 OCI Cloud & Daemons | p99 Latency via Redis Caching | LeetCode & GeeksforGeeks | Top 4.84% (LeetCode Knight) |
+| Full-Stack & 24/7 Cloud Systems | p99 Latency via Redis Caching | LeetCode & GeeksforGeeks | Top 4.84% (LeetCode Knight) |
 
 </div>
 
@@ -40,12 +40,12 @@
 
 ## 🚀 About Me
 
-I am a **Backend-focused Software Engineer** specializing in building scalable, low-latency distributed systems, concurrent services, and high-performance microservices. My core expertise centers on **Java, Spring Boot, Python, Redis, PostgreSQL, and Cloud Infrastructure (OCI / AWS)**.
+I am a **Software Development Engineer (SDE)** passionate about building end-to-end, production-grade applications — from high-throughput distributed backends and low-latency APIs to dynamic, real-time frontend interfaces and autonomous cloud infrastructure.
 
-- 🔭 **Founding Engineer & Backend Architecture**: Experienced in architecting logical multi-tenant architectures, zero-downtime distributed backends, and semantic caching layers.
-- ⚡ **High Performance & Optimization**: Engineered two-tier Redis caching systems reducing p99 latency by 82% (1.2s to 213ms) and scaled services to handle 5,800+ requests with 0% failure rate under concurrency spikes.
-- ☁️ **Autonomous Cloud Daemons**: Maintained 7 production services orchestrated on Oracle Cloud Linux with automated PM2/systemd supervision, Nginx reverse proxies, and Uptime Kuma 24/7 telemetry.
-- 🎯 **Algorithmic Problem Solving**: **LeetCode Knight** with a peak rating of **1890 (Top 4.84% globally)** and **750+ Data Structures & Algorithms** problems solved across LeetCode and GeeksforGeeks.
+- 💻 **Full-Stack & Systems Engineering**: Proficient across modern web ecosystems (**Next.js, React, TypeScript, Tailwind CSS, WebRTC, Yjs CRDTs**) and robust backend architectures (**Java, Spring Boot, Python, FastAPI, Django, PostgreSQL, Redis**).
+- ⚡ **Performance & Scalability**: Designed two-tier semantic caching architectures cutting p99 latency by 82% (1.2s → 213ms) with 61% hit rates, and validated zero-failure concurrency under 5,800+ requests with Locust.
+- ☁️ **Cloud & 24/7 Autonomous Deployments**: Orchestrated 7 production cloud services on Oracle Cloud Linux with automated PM2/systemd daemons, Nginx reverse proxies, and Uptime Kuma monitoring.
+- 🎯 **Algorithmic Problem Solving**: **LeetCode Knight** with a peak contest rating of **1890 (Top 4.84% globally)** and **750+ DSA problems solved** across LeetCode and GeeksforGeeks.
 - 🎓 **Education**: B.Tech in Computer Science & Engineering (AI/ML Specialization) at AKTU (CGPA: 8.09 / 10).
 
 ---
@@ -54,7 +54,7 @@ I am a **Backend-focused Software Engineer** specializing in building scalable, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,postgres,redis,mongodb,mysql,docker,aws,linux,nginx,nextjs,typescript,react,graphql,git,githubactions,postman&perline=10" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,typescript,javascript,react,nextjs,tailwind,nodejs,postgres,redis,mongodb,mysql,docker,aws,linux,nginx,graphql,git,githubactions&perline=11" alt="Tech Stack" />
 
 </div>
 
@@ -62,11 +62,12 @@ I am a **Backend-focused Software Engineer** specializing in building scalable, 
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) |
-| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frontend & Web** | ![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white) |
+| **Backend & APIs** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Databases & Caching** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Neon](https://img.shields.io/badge/Neon_Serverless-00E599?style=flat-square&logo=postgresql&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) |
 | **Cloud & DevOps** | ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_(OCI)-F80000?style=flat-square&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Ubuntu_Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white) |
-| **Architecture** | `Distributed Systems` `Low-Latency Design` `Multithreading & Concurrency` `Event-Driven Architecture` `CRDTs (Yjs)` `Semantic Caching` `Microservices` `System Design` |
+| **Architecture & Core CS** | `Data Structures & Algorithms` `System Design` `Distributed Systems` `Object-Oriented Programming (OOP)` `CRDTs (Yjs)` `Multithreading` `Event-Driven Systems` `Microservices` |
 
 ---
 
@@ -77,16 +78,16 @@ I am a **Backend-focused Software Engineer** specializing in building scalable, 
 <td width="50%" valign="top">
 
 ### 💻 [IntervYou](https://github.com/Flashyrs/intervYou)
-**Real-Time Distributed Collaborative Interview Platform**
+**Real-Time Collaborative Full-Stack Interview Platform**
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://interv-you.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Flashyrs/intervYou)
 [![Status](https://img.shields.io/badge/Status-Production_Live-brightgreen?style=flat-square)]()
 
-- **CRDT Synchronization**: Conflict-free real-time code collaboration in Monaco Editor using client-side **Yjs CRDTs** over Supabase channels (<10 msgs/sec debouncing).
-- **Dual WebRTC Topology**: Built dual-`PeerConnection` streams for independent congestion control across camera video and high-res screen sharing.
-- **Two-Tier Replication**: Redis cache-aside (1s debounced writes, 24h TTL) with PostgreSQL snapshots and atomic matchmaking locks (`SET NX`).
-- **Sandboxed Execution**: Fault-tolerant code execution engine with Piston and Judge0 timeout guards.
+- **CRDT Collaboration**: Sub-10ms conflict-free real-time code editing in Monaco Editor using client-side **Yjs CRDTs** mapped over Supabase channels with cursor debouncing.
+- **Dual WebRTC Topology**: Built dual-`PeerConnection` streams for independent congestion control across camera video and high-resolution screen sharing.
+- **State Replication**: Two-tier caching with Redis cache-aside (1s debounced writes, 24h TTL) and PostgreSQL snapshots with optimistic concurrency control.
+- **Sandboxed Execution**: Integrated multi-language code execution pipeline with Piston and Judge0 timeout guards.
 
 **Tech Stack**: `Next.js` • `TypeScript` • `WebRTC` • `Yjs CRDT` • `Redis` • `PostgreSQL` • `Prisma` • `Judge0`
 
@@ -94,7 +95,7 @@ I am a **Backend-focused Software Engineer** specializing in building scalable, 
 <td width="50%" valign="top">
 
 ### 🤖 [NarrateLoop](https://github.com/Flashyrs/narrateloop)
-**Autonomous Reddit-to-Video GenAI Pipeline & Telemetry Portal**
+**Autonomous Reddit-to-Video GenAI Pipeline & Developer Portal**
 
 [![Live Portal](https://img.shields.io/badge/Developer_Portal-000000?style=flat-square&logo=fastapi&logoColor=white)](https://narrateloop.duckdns.org)
 [![API Docs](https://img.shields.io/badge/API_Docs-009688?style=flat-square&logo=swagger&logoColor=white)](https://narrateloop.duckdns.org/docs)
@@ -293,9 +294,9 @@ I am a **Backend-focused Software Engineer** specializing in building scalable, 
 ```sql
 SELECT status, passion, mission 
 FROM roshan_profile 
-WHERE mindset = 'Continuous Learner' 
-  AND focus = 'High Performance Distributed Systems';
--- Result: 1 row returned (Ready to build & scale impactful software) 🚀
+WHERE role = 'Software Development Engineer (SDE)' 
+  AND mindset = 'Continuous Learner & Builder';
+-- Result: 1 row returned (Ready to build, scale, and ship impactful software) 🚀
 ```
 
 </div>
