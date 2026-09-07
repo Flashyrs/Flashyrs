@@ -1,0 +1,17 @@
+# Source and local resume files
+Roshan_Resume.pdf
+resumeData.ts
+*.pdf
+*.ts
+
+# Python bytecode and temp files
+__pycache__/
+*.py[cod]
+*$py.class
+*.py
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
